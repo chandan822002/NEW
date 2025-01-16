@@ -1,0 +1,68 @@
+[
+    {
+      "firstName": "Abhishek",
+      "lastName": "Yadav",
+      "mobileNo": "9319005544",
+      "emailId": "ab.abhishek@gmail.com",
+      "address": "Parsupur",
+      "street": "Alawalpuuur",
+      "city": "Ghazipur",
+      "state": "UP",
+      "country": "India",
+      "loginId": "Abhi8877",
+      "password": "abhi@1234"
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "Sharma",
+      "mobileNo": "9876543210",
+      "emailId": "ravi.sharma@gmail.com",
+      "address": "Shahpur",
+      "street": "Bihar Colony",
+      "city": "Patna",
+      "state": "Bihar",
+      "country": "India",
+      "loginId": "Ravi1234",
+      "password": "ravi@5678"
+    },
+    {
+      "firstName": "Neha",
+      "lastName": "Singh",
+      "mobileNo": "8006007000",
+      "emailId": "neha.singh@gmail.com",
+      "address": "Mau",
+      "street": "Sarai Khas",
+      "city": "Varanasi",
+      "state": "UP",
+      "country": "India",
+      "loginId": "NehaS123",
+      "password": "neha@9012"
+    },
+    {
+      "firstName": "Amit",
+      "lastName": "Kumar",
+      "mobileNo": "8101122334",
+      "emailId": "amit.kumar@hotmail.com",
+      "address": "Mau Road",
+      "street": "Brahmapur",
+      "city": "Lucknow",
+      "state": "UP",
+      "country": "India",
+      "loginId": "Amit12345",
+      "password": "amit@6789"
+    },
+    {
+      "firstName": "Pooja",
+      "lastName": "Verma",
+      "mobileNo": "9156728093",
+      "emailId": "pooja.verma@yahoo.com",
+      "address": "Nehru Nagar",
+      "street": "Bhelupur",
+      "city": "Varanasi",
+      "state": "UP",
+      "country": "India",
+      "loginId": "Pooja9876",
+      "password": "pooja@2345"
+    }
+  ]
+  
