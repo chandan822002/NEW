@@ -77,7 +77,7 @@ function saveData() {
     };
 
     // Call the WebService/API to save the data in MongoDB
-    fetch('http://localhost:3000/saveUser', {
+    fetch('https://new-1-zfbk.onrender.com/saveUser', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
