@@ -1,158 +1,23 @@
-.containr{
-    display: flex;
-    justify-content: center;
-    margin-left: -200px;
-}
-h1 {
-    text-align: center;
-     margin-left: 410px;
-    width: 350px;
-    margin-top: 10px;
-    color: #333;
-  }
- body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
- }
-  
-  input {
-    width:100%;
-    display: inline;
-    padding: 8px;
-    margin: 1px;
-    margin-left: 170px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-  }
-  button {
-    width: 270px;
-    padding: 10px;
-    background-color: #5cb85c;
-    border: none;
-    border-radius: 4px;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-  }
-   .btn1 {
-    width: 200px;
-    /* height: 10px; */
-    margin-left: 5px;
-    margin-top: 10px;
-    padding: 5px;
-    background-color: #5cb85c;
-    border: none;
-    border-radius: 10px;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-  }
-  button:hover {
-    background-color: #760606;
-  }
-   #myForm {
-    background-color: white;
-    height: 80vh;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow:  rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 30px;
-    height: 10px;
-   }
-   /* Basic styling for the form */
-.myForm {
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: #f9f9f9;
-  border-radius: 8px;
-}
 
-.myForm label {
-  display: block;
-  margin-bottom: 8px;
-  font-weight: bold;
-}
-
-.myForm input {
-  width: 100%;
-  padding: 8px;
-  margin-bottom: 15px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-
-.myForm button {
-  padding: 10px 15px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-.myForm button:hover {
-  background-color: #0056b3;
-}
-
-/* Responsive styles */
-@media (max-width: 768px) {
-  .myForm {
-      padding: 15px;
-      max-width: 100%;
-  }
-
-  .myForm label {
-      font-size: 14px;
-  }
-
-  .myForm input {
-      font-size: 14px;
-  }
-
-  .myForm button {
-      width: 100%;
-      padding: 12px;
-  }
-}
-
-@media (max-width: 480px) {
-  .myForm {
-      padding: 10px;
-  }
-
-  .myForm label {
-      font-size: 12px;
-      margin-left: 50px;
-  }
-
-  .myForm input {
-      font-size: 12px;
-      padding: 10px;
-  }
-
-  .myForm button {
-      padding: 15px;
-      font-size: 14px;
-  }
-
-  /* Adjust the view users button for smaller screens */
-  .btn1 {
-      width: 250px;
-      height: 60px;
-      margin-left: -20px;
-      padding: 12px;
-      font-size: 16px;
-      /* margin-top: 10px; */
-      margin-left: -30px;
-  }
-  h1{
-    width: 310px;
-      height: 60px;
-      margin-left: -30px;
-      padding: 12px;
-      font-size: 16px;
-      margin-top: 20px;
-  }
-}
+        body {
+            background-color: #f8f9fa;
+            margin-top: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .form-label {
+            font-weight: bold;
+        }
+        .form-control {
+            margin-bottom: 10px;
+        }
+        .btn-primary {
+            width: 100%;
+            margin-top: 10px;
+        }
+        .btn-secondary {
+            width: 100%;
+            margin-top: 10px;
+        }
